@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/M_R_Survey/static/css/main.ea97cb07.chunk.css",
+    "main.js": "/M_R_Survey/static/js/main.2babf0cc.chunk.js",
+    "main.js.map": "/M_R_Survey/static/js/main.2babf0cc.chunk.js.map",
+    "runtime-main.js": "/M_R_Survey/static/js/runtime-main.cffcadcc.js",
+    "runtime-main.js.map": "/M_R_Survey/static/js/runtime-main.cffcadcc.js.map",
+    "static/js/2.7955f8bb.chunk.js": "/M_R_Survey/static/js/2.7955f8bb.chunk.js",
+    "static/js/2.7955f8bb.chunk.js.map": "/M_R_Survey/static/js/2.7955f8bb.chunk.js.map",
+    "static/js/3.c13032bd.chunk.js": "/M_R_Survey/static/js/3.c13032bd.chunk.js",
+    "static/js/3.c13032bd.chunk.js.map": "/M_R_Survey/static/js/3.c13032bd.chunk.js.map",
+    "index.html": "/M_R_Survey/index.html",
+    "static/css/main.ea97cb07.chunk.css.map": "/M_R_Survey/static/css/main.ea97cb07.chunk.css.map",
+    "static/js/2.7955f8bb.chunk.js.LICENSE.txt": "/M_R_Survey/static/js/2.7955f8bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cffcadcc.js",
+    "static/js/2.7955f8bb.chunk.js",
+    "static/css/main.ea97cb07.chunk.css",
+    "static/js/main.2babf0cc.chunk.js"
+  ]
+}
